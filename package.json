@@ -8,7 +8,7 @@
     "start": "node src/index.js"
   },
   "repository": {
-    "type": "git", 
+    "type": "git",
     "url": "git+https://github.com/sebamartin11/ecommerceBackend-2.git"
   },
   "keywords": [],
